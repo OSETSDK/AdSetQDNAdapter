@@ -1,2 +1,11 @@
 # AdSetQDNAdapter
-Reserved N channel adapter repository. SDK integration pending.
+
+本仓库为 AdSetQDNAdapter 渠道适配器预留交付位置，目前仅包含仓库说明。
+
+实现前需提供并确认：
+
+- 渠道 SDK、对应版本及官方文档或获取方式。
+- 渠道的 `platform key` 及其配置约定。
+- 需要支持的广告格式。
+
+确认上述信息后，再进行适配实现和验证。当前没有可安装的适配器，无需在 Podfile 中添加本库。
